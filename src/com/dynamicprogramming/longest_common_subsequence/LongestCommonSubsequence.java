@@ -5,7 +5,7 @@ is, what is the length of the longest subsequence that is common to the given tw
 
 
 
-package com.dynamicprogramming.LongestCommonSubsequence;
+package com.dynamicprogramming.longest_common_subsequence;
 
 public class LongestCommonSubsequence {
 

@@ -1,4 +1,4 @@
-package com.dynamicprogramming.LargestSumContiguousSubarray;
+package com.dynamicprogramming.largest_sum_contiguous_subarray;
 
 import java.util.Arrays;
 

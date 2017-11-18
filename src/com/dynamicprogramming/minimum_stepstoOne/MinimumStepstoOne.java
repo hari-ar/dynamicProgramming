@@ -8,7 +8,7 @@ eg: 1.)For n = 1 , output: 0       2.) For n = 4 , output: 2  ( 4  /2 = 2  /2 = 
 
 
 
-package com.dynamicprogramming.MinimumStepstoOne;
+package com.dynamicprogramming.minimum_stepstoOne;
 
 public class MinimumStepstoOne {
 	

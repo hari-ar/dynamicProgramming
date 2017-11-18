@@ -1,4 +1,4 @@
-package com.dynamicprogramming.MinimunCoinChangeProblem;
+package com.dynamicprogramming.minimun_coin_change_problem;
 
 
 /*A Dynamic Programming to find minimum of coins
