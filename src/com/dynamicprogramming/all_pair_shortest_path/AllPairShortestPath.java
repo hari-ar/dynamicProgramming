@@ -59,7 +59,7 @@ public class AllPairShortestPath {
 		
 		int[][] dist = new int[n][n];
 		
-		// Initialize the solution matrix same as input graph matrix.
+		//Initialize the solution matrix same as input graph matrix.
 		for(int i=0; i<n; i++){
 			for(int j=0; j<n; j++){
 				dist[i][j] = graph[i][j];
