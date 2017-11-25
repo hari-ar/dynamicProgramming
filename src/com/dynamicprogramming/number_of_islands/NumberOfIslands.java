@@ -40,7 +40,7 @@ public class NumberOfIslands {
         int colNbr[] = new int[] {-1,  0,  1, -1, 1, -1, 0, 1};
         for(int i=0; i<8; i++){
         	if(isSafe(M, row+rowNbr[i], col+colNbr[i], visited));
-        	DFS(M, row+rowNbr[i], col+colNbr[i], visited);
+        		DFS(M, row+rowNbr[i], col+colNbr[i], visited);
         }
 	}
 	
